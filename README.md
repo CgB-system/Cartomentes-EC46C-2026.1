@@ -16,7 +16,7 @@ Repositório dedicado à disciplina de Desenvolvimento Ágil, do curso de Engenh
 | Andre Luiz Goncalves da Silva Teixeira          | 2564289      | [GitHub](https://github.com/decosawa) |
 | Carlos Gabriel Baratieri          | 2706598      | [GitHub](https://github.com/CgB-system) |
 | Emily Vitorya de Moura          | 2575337      | [GitHub](<link>) |
-| Gustavo de Oliveira Gracionali          | 2618052      | [GitHub](<link>) |
+| Gustavo de Oliveira Gracionali          | 2618052      | [GitHub](https://github.com/GustavoGracionali) |
 | Pedro Henrique Paludetto           | 2649063      | [GitHub](<link>) |
 
 ## Descrição do Projeto
