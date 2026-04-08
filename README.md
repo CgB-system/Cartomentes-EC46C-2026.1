@@ -26,4 +26,4 @@ O foco deste projeto é a criação de um sistema de geração de cartas, tendo 
 - 📁 [Prototipação](Prototipacao) 
 - 📁 [Requisitos de Usuário](RequisitosSistema)  
 - 📁 [Requisitos de Sistema](RequisitosUsuario)
-oi
+
