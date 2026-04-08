@@ -15,9 +15,9 @@ Repositório dedicado à disciplina de Desenvolvimento Ágil, do curso de Engenh
 |-----------------|-----------|------------------|
 | Andre Luiz Goncalves da Silva Teixeira          | 2564289      | [GitHub](https://github.com/decosawa) |
 | Carlos Gabriel Baratieri          | 2706598      | [GitHub](https://github.com/CgB-system) |
-| Emily Vitorya de Moura          | 2575337      | [GitHub](<link>) |
+| Emily Vitorya de Moura          | 2575337      | [GitHub](https://github.com/Emymoura) |
 | Gustavo de Oliveira Gracionali          | 2618052      | [GitHub](https://github.com/GustavoGracionali) |
-| Pedro Henrique Paludetto           | 2649063      | [GitHub](<link>) |
+| Pedro Henrique Paludetto           | 2649063      | [GitHub](https://github.com/phpaludetto) |
 
 ## Descrição do Projeto
 O foco deste projeto é a criação de um sistema de geração de cartas, tendo como público-alvo pessoas de todas as idades.
