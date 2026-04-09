@@ -9,6 +9,7 @@ Repositório dedicado à disciplina de Desenvolvimento Ágil, do curso de Engenh
 **Desenvolvimento Ágil**  
 **EC46C - 2026.1**
 
+
 ## Integrantes
 
 | Nome            | RA        |      GitHub      |
