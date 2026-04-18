@@ -14,3 +14,5 @@ A Tabela 1, tem como função, exibir todo os Requisitos Funcionais (RF) present
 | RF09 | O sistema deve manter a sessão ativa enquanto o usuário estiver autenticado.            | Média      | RF04, RF05              |
 
 **Tabela 1:** Requisitos Funcionais do Sistema de Login.
+
+[Retornar para Requisitos de Usuário](RequisitosUsuario) 
