@@ -15,6 +15,6 @@
 - 📁 [História de Usuário]() 
 - 📁 [Tela]()
 
-<a href="https://github.com/CgB-system/Cartomentes-EC46C-2026.1">Voltar para o ínicio</a>
+[Voltar para o início](https://github.com/CgB-system/Cartomentes-EC46C-2026.1)
 
 ![](https://capsule-render.vercel.app/api?type=waving&height=120&color=5d2e8c&reversal=false&fontAlignY=30&textBg=false&animation=fadeIn&fontSize=50&fontColor=fee697&section=footer)
