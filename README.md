@@ -11,7 +11,7 @@
 > [!IMPORTANT]
 > Repositório dedicado à disciplina de Desenvolvimento Ágil (EC46C - C61 - 2026/01) do curso de Engenharia de Computação da Universidade Tecnológica Federal do Paraná, em Cornélio Procópio!
 > 
-> Nome do projeto: Cartomentes-EC46C-2026.1
+> **Nome do projeto: Cartomentes-EC46C-2026.1**
 
 ---
 
