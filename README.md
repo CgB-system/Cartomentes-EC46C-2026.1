@@ -39,6 +39,41 @@ O foco deste projeto é a criação de um sistema de criação e geração de ca
 - 📁 [Requisitos de Usuário](RequisitosUsuario)
 - 📁 [Requisitos de Sistema](RequisitosSistema)  
 
+<details>
+  <summary><b><code>Tecnologias Utilizadas</code></b></summary>
+  <table align="center">
+    <tr>
+      <th align="center">Categoria</th>
+      <th align="center">Tecnologias</th>
+    </tr>
+    <tr>
+      <td align="center"><b>Back-End</b></td>
+      <td align="center">
+      </td>
+    </tr>
+    <tr>
+      <td align="center"><b>Markup</b></td>
+      <td align="center">
+      </td>
+    </tr>
+    <tr>
+      <td align="center"><b>Front-End</b></td>
+      <td align="center">
+      </td>
+    </tr>
+    <tr>
+      <td align="center"><b>Banco de Dados</b></td>
+      <td align="center">
+      </td>
+    </tr>
+    <tr>
+      <td align="center"><b>Infraestrutura</b></td>
+      <td align="center">
+      </td>
+    </tr>
+  </table>
+</details>
+
 ---
 
 ![](https://capsule-render.vercel.app/api?type=waving&height=120&color=5d2e8c&reversal=false&fontAlignY=30&textBg=false&animation=fadeIn&fontSize=50&fontColor=fee697&section=footer)
