@@ -17,12 +17,12 @@ O foco deste projeto é a criação de um sistema de criação e geração de ca
 <p align="center"><table align="center"><tr><td>
 <h2>Integrantes</h2>
 <table>
-<tr><th>Nome</th><th>RA</th><th>GitHub</th></tr>
-<tr><td>Andre Luiz Goncalves da Silva Teixeira</td><td>2564289</td><td><a href="https://github.com/decosawa">GitHub</a></td></tr>
-<tr><td>Carlos Gabriel Baratieri</td><td>2706598</td><td><a href="https://github.com/CgB-system">GitHub</a></td></tr>
-<tr><td>Emily Vitorya de Moura</td><td>2575337</td><td><a href="https://github.com/Emymoura">GitHub</a></td></tr>
-<tr><td>Gustavo de Oliveira Gracionali</td><td>2618052</td><td><a href="https://github.com/GustavoGracionali">GitHub</a></td></tr>
-<tr><td>Pedro Henrique Paludetto</td><td>2649063</td><td><a href="https://github.com/phpaludetto">GitHub</a></td></tr>
+<tr><th>Nome</th><th>RA</th></tr>
+<tr><td><a href="https://github.com/decosawa">Andre Luiz Goncalves da Silva Teixeira</a></td><td>2564289</td></tr>
+<tr><td><a href="https://github.com/CgB-system">Carlos Gabriel Baratieri</a></td><td>2706598</td></tr>
+<tr><td><a href="https://github.com/Emymoura">Emily Vitorya de Moura</a></td><td>2575337</td></tr>
+<tr><td><a href="https://github.com/GustavoGracionali">Gustavo de Oliveira Gracionali</a></td><td>2618052</td></tr>
+<tr><td><a href="https://github.com/phpaludetto">Pedro Henrique Paludetto</a></td><td>2649063</td></tr>
 </table>
 </td><td align="center">
 <img src="https://i.pinimg.com/originals/a7/61/b1/a761b11aeb1fa33d35d94fcd84923005.gif" width="340"/>
