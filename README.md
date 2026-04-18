@@ -53,10 +53,11 @@
 </table>
 </details>
 
+<!-- Conversar ainda sobre o padrão industrial
 <details>
 <summary><b><code>Mapa de Diretórios do Repositório</code></b></summary>
 
-</details>
+</details> -->
 
 ---
 
