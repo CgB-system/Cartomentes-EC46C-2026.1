@@ -9,7 +9,7 @@
 
 
 > [!IMPORTANT]
-> Repositório dedicado à disciplina de Desenvolvimento Ágil (EC46C - 2026.1) do curso de Engenharia de Computação da Universidade Tecnológica Federal do Paraná, em Cornélio Procópio! Nome do projeto: Cartomentes-EC46C-2026.1
+> Repositório dedicado à disciplina de Desenvolvimento Ágil (EC46C - C61 - 2026/01) do curso de Engenharia de Computação da Universidade Tecnológica Federal do Paraná, em Cornélio Procópio! Nome do projeto: Cartomentes-EC46C-2026.1
 
 ## Descrição do Projeto
 O foco deste projeto é a criação de um sistema de criação e geração de cartas, tendo como público-alvo pessoas de todas as idades que possuam gosto pelo poder das cartas!!!
