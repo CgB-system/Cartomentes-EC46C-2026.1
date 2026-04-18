@@ -31,8 +31,8 @@ O foco deste projeto é a criação de um sistema de criação e geração de ca
 
 ## Estrutura do Repositório
 - 📁 [Prototipação](Prototipacao) 
-- 📁 [Requisitos de Usuário](RequisitosSistema)  
-- 📁 [Requisitos de Sistema](RequisitosUsuario)
+- 📁 [Requisitos de Usuário](RequisitosUsuario)
+- 📁 [Requisitos de Sistema](RequisitosSistema)  
 
 
 ![](https://capsule-render.vercel.app/api?type=waving&height=120&color=5d2e8c&reversal=false&fontAlignY=30&textBg=false&animation=fadeIn&fontSize=50&fontColor=fee697&section=footer)
