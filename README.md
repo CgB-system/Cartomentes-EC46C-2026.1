@@ -25,7 +25,7 @@ O foco deste projeto é a criação de um sistema de criação e geração de ca
 <tr><td><a href="https://github.com/phpaludetto">Pedro Henrique Paludetto</a></td><td>2649063</td></tr>
 </table>
 </td><td align="center">
-<img src="https://i.pinimg.com/originals/a7/61/b1/a761b11aeb1fa33d35d94fcd84923005.gif" width="360"/>
+<img src="https://i.pinimg.com/originals/a7/61/b1/a761b11aeb1fa33d35d94fcd84923005.gif" width="370"/>
 </td></tr></table></p>
 
 
