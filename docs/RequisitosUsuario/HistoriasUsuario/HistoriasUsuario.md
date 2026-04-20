@@ -48,4 +48,6 @@ A Tabela 3 a seguir contém as Histórias de Usuárias elicitadas.
 <p>Tabela 3: História de Usuário</p>
 </div>
 
+[⬅️ Voltar para Requisitos de Usuário](../README.md)
+
 [Voltar para o início](https://github.com/CgB-system/Cartomentes-EC46C-2026.1)
