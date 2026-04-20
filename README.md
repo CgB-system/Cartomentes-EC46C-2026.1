@@ -52,6 +52,12 @@
 - 📁 [src/](src/)
 - 📁 [assets/](assets/)
 
+> [!TIP]
+> **docs/**: documentação do projeto.  
+> **atv/**: atividades e entregas da disciplina.  
+> **src/**: código-fonte da aplicação.  
+> **assets/**: arquivos estáticos (imagens, ícones, etc).
+
 --- 
 
 # Tecnologias Utilizadas
