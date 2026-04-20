@@ -64,11 +64,8 @@
 </table>
 </details>
 
-<!-- Conversar ainda sobre o padrão industrial
-<details>
-<summary><b><code>Mapa de Diretórios do Repositório</code></b></summary>
-
-</details> -->
+> [!NOTE]
+> As tecnologias vão ser adicionadas conforme a evolução do projeto.
 
 ---
 
