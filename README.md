@@ -38,10 +38,17 @@
 
 ---
 
-## Estrutura do Repositório
-- 📁 [Prototipação](docs/Prototipacao) 
-- 📁 [Requisitos de Usuário](docs/RequisitosUsuario)
-- 📁 [Requisitos de Sistema](docs/RequisitosSistema)
+## 📁 Estrutura do Repositório
+
+- 📁 [docs/](docs/)
+  - 📁 [Prototipacao/](docs/Prototipacao/)
+  - 📁 [RequisitosSistema/](docs/RequisitosSistema/)
+  - 📁 [RequisitosUsuario/](docs/RequisitosUsuario/)
+    - 📁 [HistoriasUsuario/](docs/RequisitosUsuario/HistoriasUsuario/)
+    - 📁 [RequisitosFuncionais/](docs/RequisitosUsuario/RequisitosFuncionais/)
+    - 📁 [RequisitosNaoFuncionais/](docs/RequisitosUsuario/RequisitosNaoFuncionais/)
+- 📁 [src/](src/)
+- 📁 [assets/](assets/)
 
 <details>
 <summary><b><code>Tecnologias Utilizadas</code></b></summary>
