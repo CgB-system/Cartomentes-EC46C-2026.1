@@ -44,9 +44,9 @@
   - 📁 [Prototipacao/](docs/Prototipacao/)
   - 📁 [RequisitosSistema/](docs/RequisitosSistema/)
   - 📁 [RequisitosUsuario/](docs/RequisitosUsuario/)
-    - 📁 [HistoriasUsuario/](docs/RequisitosUsuario/HistoriasUsuario/)
-    - 📁 [RequisitosFuncionais/](docs/RequisitosUsuario/RequisitosFuncionais/)
-    - 📁 [RequisitosNaoFuncionais/](docs/RequisitosUsuario/RequisitosNaoFuncionais/)
+    - 📁 [HistoriasUsuario/](docs/RequisitosUsuario/HistoriasUsuario/HistoriasUsuario.md)
+    - 📁 [RequisitosFuncionais/](docs/RequisitosUsuario/RequisitosFuncionais/RF.md)
+    - 📁 [RequisitosNaoFuncionais/](docs/RequisitosUsuario/RequisitosNaoFuncionais/RNF.md)
 - 📁 [src/](src/)
 - 📁 [assets/](assets/)
 
