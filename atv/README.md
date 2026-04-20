@@ -18,3 +18,6 @@
   - 📄 [Requisitos Não Funcionais (RNF)](../docs/RequisitosUsuario/RequisitosNaoFuncionais/RNF.md)
   - 📄 [Histórias de Usuário](../docs/RequisitosUsuario/HistoriasUsuario/HistoriasUsuario.md)
   - 🐛 [Issues das Tarefas](https://github.com/CgB-system/Cartomentes-EC46C-2026.1/issues)
+    
+- 📄 [Atividade 04](./pdf/Atividade04.pdf)
+  - 📄 [Prompt de Histórias de Usuário](../docs/RequisitosUsuario/Prompt-Historias-Usuarios.docx.pdf)
