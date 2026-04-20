@@ -38,7 +38,7 @@
 
 ---
 
-## 📁 Estrutura do Repositório
+## 📁 Estrutura do Repositório (Árvore de Diretórios)
 
 - 📁 [docs/](docs/)
   - 📁 [Prototipacao/](docs/Prototipacao/)
