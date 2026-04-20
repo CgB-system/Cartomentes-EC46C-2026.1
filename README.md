@@ -50,6 +50,8 @@
 - 📁 [src/](src/)
 - 📁 [assets/](assets/)
 
+--- 
+
 <details>
 <summary><b><code>Tecnologias Utilizadas</code></b></summary>
 <table align="center">
