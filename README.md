@@ -51,6 +51,8 @@
   - 📄 [README.md](atv/README.md)
 - 📁 [src/](src/)
 - 📁 [assets/](assets/)
+  - 📁 [rascunhos/](assets/rascunhos/)
+  - 📄 [README.md](assets/README.md)
 
 > [!TIP]
 > **docs/**: documentação do projeto.  
