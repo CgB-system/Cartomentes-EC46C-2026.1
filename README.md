@@ -60,6 +60,47 @@
 > **src/**: código-fonte da aplicação.  
 > **assets/**: arquivos estáticos (imagens, ícones, etc).
 
+---
+
+<details>
+  <summary><b>🗺️ Mapa Geral do Repositório</b></summary>
+  <pre><code>
+├── assets
+│   ├── rascunhos
+│   │   ├── fluxorascunho.png
+│   │   ├── login-rascunho.png
+│   │   ├── racunho2.png
+│   │   ├── rascuho1.png
+│   │   └── rascunho3.png
+│   └── README.md
+├── atv
+│   ├── pdf
+│   │   ├── Atividade01.pdf
+│   │   ├── Atividade02.pdf
+│   │   ├── Atividade03.pdf
+│   │   └── Atividade04.pdf
+│   └── README.md
+├── docs
+│   ├── Prototipacao
+│   │   └── README.md
+│   ├── README.md
+│   ├── RequisitosSistema
+│   │   └── README.md
+│   └── RequisitosUsuario
+│       ├── HistoriasUsuario
+│       │   └── HistoriasUsuario.md
+│       ├── Prompt-Historias-Usuarios.docx.pdf
+│       ├── README.md
+│       ├── RequisitosFuncionais
+│       │   └── RF.md
+│       └── RequisitosNaoFuncionais
+│           └── RNF.md
+├── README.md
+└── src
+    └── README.md
+  </code></pre>
+</details>
+
 --- 
 
 # Tecnologias Utilizadas
