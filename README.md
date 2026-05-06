@@ -6,6 +6,10 @@
   </a>
 </p>
 
+<!-- ![Texto Alternativo da Imagem](caminho/do/seu/arquivo/imagem.png) -->
+
+
+
 ---
 
 > [!IMPORTANT]
