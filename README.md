@@ -1,4 +1,3 @@
-![](https://capsule-render.vercel.app/api?type=waving&height=120&color=5d2e8c&reversal=false&fontAlignY=30&textBg=false&animation=fadeIn&fontSize=50&fontColor=fee697)
 
 <!-- <p align="center">
   <a href="https://git.io/typing-svg">
@@ -6,8 +5,12 @@
   </a>
 </p> -->
 
- <p align="center">
-  <a href="https://git.io/typing-svg">
+![](https://capsule-render.vercel.app/api?type=waving&height=120&color=5d2e8c&reversal=false&fontAlignY=30&textBg=false&animation=fadeIn&fontSize=50&fontColor=fee697)
+
+<div style="margin-top: -2.5em;"></div>
+
+<p align="center">
+  <a href="https://git.io">
     <img src="BannerCartomentes.png" alt="Typing SVG" />
   </a>
 </p>
