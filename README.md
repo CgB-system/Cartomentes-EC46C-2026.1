@@ -5,9 +5,9 @@
   </a>
 </p> -->
 
-![](https://capsule-render.vercel.app/api?type=waving&height=140&color=5d2e8c&reversal=false&fontAlignY=30&textBg=false&animation=fadeIn&fontSize=50&fontColor=fee697)
+![](https://capsule-render.vercel.app/api?type=waving&height=120&color=5d2e8c&reversal=false&fontAlignY=30&textBg=false&animation=fadeIn&fontSize=50&fontColor=fee697)
 
-<div style="margin-top: -2.5em;"></div>
+<!-- <div style="margin-top: -2.5em;"></div> -->
 
 <p align="center">
   <a href="https://git.io">
